@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="D:/Surekha/ATB5X/ATB5XRestAssured/ATB5XRestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.174">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testGetallBookingNegative"
+                time="2.706"
+                classname="com.thetestingacademy.tests.crud.GET.GetRequestNonBDDTestNG">
+            </testcase>
+            <testcase
+                name="testGetallBookingNegative2"
+                time="1.809"
+                classname="com.thetestingacademy.tests.crud.GET.GetRequestNonBDDTestNG">
+            </testcase>
+            <testcase
+                name="testGetallBookingPositive"
+                time="1.659"
+                classname="com.thetestingacademy.tests.crud.GET.GetRequestNonBDDTestNG">
+            </testcase>
+</testsuite>

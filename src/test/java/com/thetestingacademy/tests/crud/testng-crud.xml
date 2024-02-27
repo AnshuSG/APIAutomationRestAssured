@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/Surekha/ATB5X/ATB5XRestAssured/ATB5XRestAssured">
+        <classes>
+            <class name="com.thetestingacademy.tests.crud.POST.NonBDDStylePost">
+            </class>
+            <class name="com.thetestingacademy.tests.crud.PATCH.NonBDDPatch">
+            </class>
+            <class name="com.thetestingacademy.tests.crud.GET.GetRequestNonBDDTestNG">
+            </class>
+            <class name="com.thetestingacademy.tests.crud.PUT.NonBDDPUT">
+            </class>
+            <class name="com.thetestingacademy.tests.crud.DELETE.NonBDDDelete">
+            </class>
+        </classes>
+    </test>
+</suite>
