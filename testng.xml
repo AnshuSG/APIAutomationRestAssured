@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/Surekha/ATB5X/ATB5XRestAssured/ATB5XRestAssured/src/test/java/com/thetestingacademy/tests/crud/GET/GetRequestNonBDDTestNG.java"><classes><class name="com.thetestingacademy.tests.crud.GET.GetRequestNonBDDTestNG"><methods><include name="testGetallBookingPositive"/><include name="testGetallBookingNegative"/><include name="testGetallBookingNegative2"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/Surekha/ATB5X/ATB5XRestAssured/ATB5XRestAssured/src/test/java/com/thetestingacademy/tests/crud/GET/GetRequestNonBDDTestNG.java">
+        <classes>
+            <class name="com.thetestingacademy.tests.crud.GET.GetRequestNonBDDTestNG">
+                <methods>
+                    <include name="testGetallBookingPositive"/>
+                    <include name="testGetallBookingNegative"/>
+                    <include name="testGetallBookingNegative2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
