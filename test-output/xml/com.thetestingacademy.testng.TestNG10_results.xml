@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB5XRestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.014">
+    <properties></properties>
+
+
+
+            <testcase
+                name="serverStartedOK"
+                time="0.012"
+                classname="com.thetestingacademy.testng.TestNG10">
+            </testcase>
+            <testcase
+                name="Method1"
+                time="0.002"
+                classname="com.thetestingacademy.testng.TestNG10">
+            </testcase>
+</testsuite>
