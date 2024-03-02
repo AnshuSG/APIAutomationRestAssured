@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB5XRestAssured"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.962">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testLogin"
+                time="2.227"
+                classname="com.thetestingacademy.testng.DDT.HWDDT02">
+            </testcase>
+            <testcase
+                name="testLogin"
+                time="2.140"
+                classname="com.thetestingacademy.testng.DDT.HWDDT02">
+            </testcase>
+            <testcase
+                name="testLogin"
+                time="10.270"
+                classname="com.thetestingacademy.testng.DDT.HWDDT02">
+            </testcase>
+            <testcase
+                name="testLogin"
+                time="2.325"
+                classname="com.thetestingacademy.testng.DDT.HWDDT02">
+            </testcase>
+</testsuite>

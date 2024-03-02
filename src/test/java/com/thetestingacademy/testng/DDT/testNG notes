@@ -1,4 +1,8 @@
 parallel
 DDT(CSV,EXcel)-Apache POI, FILLOW LIB
 Listeners
-Framework
+Framework -> jenkins and git(ci/cd)
+Cucumber BDD
+
+Web automation
+selenium
