@@ -12,16 +12,16 @@
             <testcase
                 name="loginTest"
                 time="0.011"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.002"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
 </testsuite>

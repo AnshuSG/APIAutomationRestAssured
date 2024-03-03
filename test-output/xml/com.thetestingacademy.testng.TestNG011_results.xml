@@ -12,16 +12,16 @@
             <testcase
                 name="getbookingId"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG011">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG011">
             </testcase>
             <testcase
                 name="testPutRequest"
                 time="0.003"
-                classname="com.thetestingacademy.testng.TestNG011">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG011">
             </testcase>
             <testcase
                 name="getToken"
                 time="0.013"
-                classname="com.thetestingacademy.testng.TestNG011">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG011">
             </testcase>
 </testsuite>

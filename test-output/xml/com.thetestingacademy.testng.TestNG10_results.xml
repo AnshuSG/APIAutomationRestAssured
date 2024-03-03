@@ -12,11 +12,11 @@
             <testcase
                 name="serverStartedOK"
                 time="0.012"
-                classname="com.thetestingacademy.testng.TestNG10">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG10">
             </testcase>
             <testcase
                 name="Method1"
                 time="0.002"
-                classname="com.thetestingacademy.testng.TestNG10">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG10">
             </testcase>
 </testsuite>

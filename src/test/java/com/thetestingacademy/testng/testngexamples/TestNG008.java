@@ -1,4 +1,4 @@
-package com.thetestingacademy.testng;
+package com.thetestingacademy.testng.testngexamples;
 
 import groovy.json.JsonOutput;
 import org.testng.Assert;

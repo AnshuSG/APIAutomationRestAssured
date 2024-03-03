@@ -1,4 +1,4 @@
-package com.thetestingacademy.testng;
+package com.thetestingacademy.testng.testngexamples;
 
 import org.codehaus.groovy.transform.SourceURIASTTransformation;
 import org.testng.Assert;

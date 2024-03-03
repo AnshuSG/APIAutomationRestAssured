@@ -12,11 +12,11 @@
             <testcase
                 name="testPutRequest"
                 time="1.968"
-                classname="com.thetestingacademy.testng.TestNG005">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG005">
             </testcase>
             <testcase
                 name="testPutRequest2"
                 time="2.809"
-                classname="com.thetestingacademy.testng.TestNG005">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG005">
             </testcase>
 </testsuite>

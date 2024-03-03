@@ -12,6 +12,6 @@
             <testcase
                 name="nonBDDStylePutRequest"
                 time="1.716"
-                classname="com.thetestingacademy.testng.Test002">
+                classname="com.thetestingacademy.testng.testngexamples.Test002">
             </testcase>
 </testsuite>

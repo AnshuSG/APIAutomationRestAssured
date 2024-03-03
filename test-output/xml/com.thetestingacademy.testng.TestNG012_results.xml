@@ -12,6 +12,6 @@
             <testcase
                 name="paramsmethod"
                 time="0.012"
-                classname="com.thetestingacademy.testng.TestNG012">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG012">
             </testcase>
 </testsuite>
