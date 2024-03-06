@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB5XRestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.753">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositive"
+                time="6.753"
+                classname="com.thetestingacademy.misc.payloadmap.gson.POSTReqTC">
+            </testcase>
+</testsuite>
